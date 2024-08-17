@@ -3,10 +3,9 @@
 
 ## Einleitung
 
-Dieses Repo enthält die Bauanleitung für das [PocketAdmin](https://github.com/krakrukra/PocketAdmin) Projekt von Karakura. **Ich habe weder die Hardware, noch die Software hergestellt, Credits gehen vollständig an die Entwickler*Innen des Originalprojekts!**
-Ziel dieser Anleitung ist, als Anleitung für einen Workshop auf dem WAMP24 zu dienen, oder als Hilfestellung für Hacker*Innen zu dienen die das Projekt selbst nachbauen wollen und die Teile selbst gesourced haben.
+Dieses Repo enthält die Bauanleitung für das [PocketAdmin](https://github.com/krakrukra/PocketAdmin) Projekt von Karakura. **Ich habe weder die Hardware, noch die Software hergestellt, Credits gehen vollständig an die Entwickler*Innen des Originalprojekts!**  
+Ziel dieser Anleitung ist, als Anleitung für einen Workshop auf dem WAMP24, oder als Hilfestellung für Hacker*Innen zu dienen die das Projekt selbst nachbauen wollen und die Teile selbst gesourced haben.
 Wenn du bereits Erfahrungen mit dem bauen von Hardware hast, benötigst du diese Anleitung vermutlich nicht.
-
 
 **Der Workshop ist als Fortbildung geplant. Bitte sei vorsichtig mit dem Umgang des gebauten Gerätes und verwende es ausschließlich als Awareness- oder Administrationsgerät**
 
@@ -61,16 +60,16 @@ Insgesammt solltest du 12 Packages mit Bauteilen, eine PCB und ein USB-Stick Cas
 ### Zusammenbau
 
 Lade zuerst die [IBOM HTML Datei](/doc/BOM/ibom.html) herunter und öffne sie in einem Browser. Wähle nun die Rückseite der PCB (rechte obere Ecke, das große B).
-Platziere die Platine im Rakel-Halter und trage mit dem Rakel Lötpaste auf.
+Platziere die Platine im Rakel-Halter, platziere den Stencil und trage mit dem Rakel Lötpaste auf.
 Wenn du das noch nie gemacht hast, frage bitte eine\*n Trainer\*in nach Hilfe.
 
 Nimm nun eine Pinzette und platziere die einzelnen Teile. Achte darauf, dass die Teile korrekt orientiert (STM, IP4220CZ6) und gerade platziert sind.
 ![](/doc/Images/Picture_back.png)
 
-Wenn du mit der ersten seite Fertig bist, nimm die PCB vorsichtig und platziere sie im Reflow-Ofen.  
-Warte bis die Platine fertig gebacken und abgekühlt ist.  
+Wenn du mit der ersten seite fertig bist, nimm die PCB und platziere sie im Reflow-Ofen.  
+Warte bis die Platine fertig gebacken ist, nimm sie heraus und  warte noch etwas mehr bis sie abgekühlt ist.  
 
-Dann trage das Lötzinn auf die Vorderseite auf und platziere auch hier die Teile mit einer Pinzette. 
+Trage dann das Lötzinn auf die Vorderseite auf und platziere auch hier die Teile mit einer Pinzette. 
 
 **ACHTUNG: Lasse den USB Stecker vorerst weg! Der wird im Anschluss von Hand gelötet. Die Stecker halten die Hitz im reflow Ofen nicht aus und schmelzen!**
 
@@ -82,7 +81,6 @@ Wenn die Vorderseite fertig gebacken ist, stecke den USB Stecker auf und verlöt
 Mache eine Sichtprüfung auf Kurzschlüsse oder Lötbrücken. Wenn du Hilfe beim reparieren brauchst, sag bescheid.
 
 Du bist nun fertig mit dem Zusammenbau. Weiter gehts mit der Programmierung
-
 
 ## Programmierung
 
