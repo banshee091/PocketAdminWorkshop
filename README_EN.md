@@ -5,7 +5,7 @@ Table of Content
 
 ## Introduction
 
-In this repo, you will find assembly instructions for the [PocketAdmin](https://github.com/krakrukra/PocketAdmin) project, courtesy of @krakrukra. **I did not create the hardware, nor the software! All credits go to the original creators of the PocketAdmin project!** The goal for this repo is, to provide a streamlined building process for a kit with all the parts pre-selected, so you can do it on your own, or more specificaly: So you can use this guide in a workshop I am planing to hold.
+In this repo, you will find assembly instructions for the [PocketAdmin](https://github.com/krakrukra/PocketAdmin) project, courtesy of @krakrukra. **I did not create the hardware, nor the software! All credits go to the original creators of the PocketAdmin project!**  The goal for this repo is, to provide a streamlined building process for a kit with all the parts pre-selected, so you can do it on your own, or more specificaly: So you can use this guide in a workshop I am planing to hold.
 If you have already some experiences with assembling pcbs with smd parts, you propably won't need this guide.
 
 **This workshop is inteded to create an educational device, please be carefull with what you do with your PocketAdmin.**
