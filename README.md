@@ -27,19 +27,19 @@ Platziere als erstes alle Teile vor dir um sicherzustellen, dass alles vorhanden
 1x MCP1700-3302E/TT Linearregler
 ![](/doc/Images/Picture_linear_regulator.png)
 
-3x 10µF Kondensatoren
+3x 10µF Kondensatoren (Durchsichtiger Streifen)
 ![](/doc/Images/Picture_capacitors_10uF.png)
 
-2x 18pF Kondensatoren
+2x 18pF Kondensatoren (Streifen ohne Farben)
 ![](/doc/Images/Picture_capacitors_18pF.png)
 
-7x 100nF Kondensatoren
+7x 100nF Kondensatoren (Langer Streifen)
 ![](/doc/Images/Pciture_capacitors_100nF.png)
 
-2x 33 Ohm Widerstände 
+2x 33 Ohm Widerstände (Streifen mti schwarzem Punkt)
 ![](/doc/Images/Picture_resistor_33.png)
 
-2x 4.7k Ohm Widerstände 
+2x 4.7k Ohm Widerstände (Streifen mit gelbem Punkt)
 ![](/doc/Images/Picture_resistor_4k7.png)
 
 1x Grüne LED 
