@@ -36,7 +36,7 @@ Platziere als erstes alle Teile vor dir um sicherzustellen, dass alles vorhanden
 7x 100nF Kondensatoren (Langer Streifen)
 ![](/doc/Images/Picture_capacitors_100nF.png)
 
-2x 33 Ohm Widerstände (Streifen mti schwarzem Punkt)
+2x 33 Ohm Widerstände (Streifen mit schwarzem Punkt)
 ![](/doc/Images/Picture_resistor_33.png)
 
 2x 4.7k Ohm Widerstände (Streifen mit gelbem Punkt)
