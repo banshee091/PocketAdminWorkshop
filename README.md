@@ -62,7 +62,11 @@ Insgesamt solltest du 12 Packages mit Bauteilen, eine Platine und ein USB-Stick 
 
 ### Zusammenbau
 
-Lade zuerst die [IBOM HTML Datei](/doc/BOM/ibom.html) herunter und öffne sie in einem Browser. Wähle nun die Rückseite der Platine (rechte obere Ecke, das große B).
+Lade zuerst die [IBOM HTML Datei](/doc/BOM/ibom.html) herunter und öffne sie in einem Browser. Wähle nun die Rückseite der Platine (rechte obere Ecke, das große B). Schalte mit dem Einstellungs-Icon am besten auch ein, dass der 1. Pin im schaltplan angezeigt wird.
+
+Dann geht es zum Rakeln der Platine.
+Wenn du das noch nie gemacht hast, frage bitte eine\*n Trainer\*in nach Hilfe.
+
 Platziere die Platine im Rakel-Halter:
 ![](/doc/Images/Picture_prep_back1.png)
 Platziere den Stencil:
@@ -74,9 +78,8 @@ Und trage mit dem Rakel Lötpaste auf.
 
 ![](/doc/Images/Picture_prep_back5.png)
 
-Wenn du das noch nie gemacht hast, frage bitte eine\*n Trainer\*in nach Hilfe.
 
-Nimm nun eine Pinzette und platziere die einzelnen Teile. Achte darauf, dass die Teile korrekt orientiert (STM, IP4220CZ6) und gerade platziert sind.
+Nimm nun eine Pinzette und platziere die einzelnen Teile mithilfe der IBOM Anleitung.. Achte darauf, dass die Teile korrekt orientiert (STM, IP4220CZ6) und gerade platziert sind.
 ![](/doc/Images/Picture_prep_back6.png)
 
 Wenn du mit der ersten Seite fertig bist, nimm die PCB und platziere sie im Reflow-Ofen.  
