@@ -62,7 +62,7 @@ Insgesamt solltest du 12 Packages mit Bauteilen, eine Platine und ein USB-Stick 
 
 ### Zusammenbau
 
-Lade zuerst die [IBOM HTML Datei](/doc/BOM/ibom.html) herunter und öffne sie in einem Browser. Wähle nun die Rückseite der Platine (rechte obere Ecke, das große B). Schalte mit dem Einstellungs-Icon am besten auch ein, dass der 1. Pin im schaltplan angezeigt wird.
+Lade zuerst die [IBOM HTML Datei](/doc/BOM/ibom.html) herunter und öffne sie in einem Browser. Wähle nun die Rückseite der Platine (rechte obere Ecke, das große B). Schalte mit dem Einstellungs-Icon am besten auch ein, dass der 1. Pin im Schaltplan angezeigt wird.
 
 Dann geht es zum Rakeln der Platine.
 Wenn du das noch nie gemacht hast, frage bitte eine\*n Trainer\*in nach Hilfe.
